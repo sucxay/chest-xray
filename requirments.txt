@@ -1,0 +1,6 @@
+torch
+fastapi 
+torchvision 
+pillow
+numpy
+python-multipart
